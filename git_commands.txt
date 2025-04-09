@@ -1,0 +1,13 @@
+git config --global user.name=<ENTER_YOUR_NAME_HERE>
+git config --global user.email=<ENTER_YOUR_EMAIL_HERE>
+
+git init
+git add <FILE_NAME>
+git add -A
+
+git commit -m <ENTER YOUR MASSAGE HERE>
+
+git log
+
+git restore <FILE_NAEE>
+git restore --staged <FILE_NAME>
