@@ -1,0 +1,22 @@
+SQL (Structured Query Language)
+
+SELECT * FROM Studen WHERE name='Pooria' (Query)
+3NF
+ACID
+
+- sqlite
+- mySQL
+- SQLServer
+- Postgresql
+
+Transaction Processing
+
+NoSQL
+
+- MongoDB
+- Redis
+- Cassandra 
+- Neo4j
+- weaviate
+
+CAP - theorem

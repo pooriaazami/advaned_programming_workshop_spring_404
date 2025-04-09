@@ -1,0 +1,4 @@
+- bare metal
+
+- VM
+- docker
