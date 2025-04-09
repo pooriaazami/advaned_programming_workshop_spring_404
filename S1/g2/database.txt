@@ -1,0 +1,21 @@
+SQL (Structured Query Language)
+
+SELECT * FROM Student WHERE name='Pooria';
+
+- sqlite
+- MySQL
+- SQLServer
+- PostgreSQL
+
+Transaction Processing
+ACID
+
+NoSQL
+
+- MongoDB
+- Redis
+- Cassandra
+- Neo4j
+- weaviate
+
+CAP - theorem
