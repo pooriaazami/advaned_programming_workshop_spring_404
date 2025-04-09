@@ -1,3 +1,6 @@
+# Author: Pooria Azami
+# Eamil: pooriaazami@gmail.com
+
 import time
 
 def time_decorator(t):
