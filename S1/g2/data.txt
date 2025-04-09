@@ -1,0 +1,5 @@
+First Line
+Second Line
+Another Line
+Yet Another Line
+یک خط جدید اطلاعات در فایل
