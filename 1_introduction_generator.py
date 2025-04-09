@@ -1,5 +1,6 @@
 import time
 
+# This is a new line of code
 def is_prime(number):
     if number < 2:
         return False
