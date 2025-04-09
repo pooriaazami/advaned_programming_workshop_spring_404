@@ -1,0 +1,16 @@
+git init
+
+git add <FILE_NAME>
+git add -A
+
+git commit -m ""
+
+git restore <FILE_NAME>
+git restore --staged <FILE_NAME>
+
+git log
+
+git config --global user.name=<ENTER_YOUR_NAME_HERE>
+git config --global user.email=<ENTER_YOUR_EMAIL_HERE>
+
+git diff
