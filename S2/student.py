@@ -33,7 +33,7 @@ class Student:
         return self.__name + ' ' + self.family
 
     def __str__(self):
-        return f'Student(name = "{self.__name}", family="{self.family}")'
+        return f'Student(name="{self.__name}", family="{self.family}")'
 
 
 s = Student('name', 'family', 20)
