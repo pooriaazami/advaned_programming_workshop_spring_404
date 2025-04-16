@@ -28,6 +28,13 @@ class Student:
         assert new_value >= 0
         self.__age = new_value
 
+    @property
+    def full_name(self):
+        return self.__name + ' ' + self.family
+
+    def __str__(self):
+        return f'Student(name = "{self.__name}", family="{self.family}")'
+
 
 s = Student('name', 'family', 20)
 print(s.name)
@@ -47,3 +54,6 @@ try:
 except:
     print('There was an error')
 print(s.age)
+
+print(s)
+print(s.full_name)
