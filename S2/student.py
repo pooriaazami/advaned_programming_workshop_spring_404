@@ -57,3 +57,7 @@ print(s.age)
 
 print(s)
 print(s.full_name)
+
+print(isinstance(s, Student))
+print(isinstance(s, str))
+print(isinstance(s, object))
